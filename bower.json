@@ -9,6 +9,7 @@
     "angular-sanitize": "~1.5.3",
     "moment": "~2.10.6",
     "swiper": "^3.4.2",
-    "angular-ui-select": "^0.19.8"
+    "angular-ui-select": "^0.19.8",
+    "requirejs": "^2.3.5"
   }
 }
