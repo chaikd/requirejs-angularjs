@@ -7,8 +7,12 @@
 
 
 启动方式
+
+
   bower install
+  
   npm install
+  
   gulp
 
 
